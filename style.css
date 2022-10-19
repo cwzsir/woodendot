@@ -10,7 +10,7 @@ ul{
 
 header{
 	padding: 17px 20px;
-	border-bottom: 1px solid #F2F2F2;
+	border-bottom: 1px solid #f2f2f2;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -24,7 +24,7 @@ header{
 }
 
 .menu-list a{
-	font-family: 'Cardo';
+	font-family: 'Cardo', serif;
 	font-weight: 400;
 	font-size: 17px;
 	line-height: 23px;
@@ -55,7 +55,7 @@ header{
 	text-align: center;
 	width: 907px;
 	height: 97px;
-	font-family: 'Roboto';
+	font-family: 'Roboto', serif;
 	font-style: normal;
 	font-weight: 700;
 	font-size: 30px;
@@ -103,15 +103,15 @@ header{
 }
 
 .star{
-	margin: 0px 10px 0px 88px;
+	margin: 0 10px 0 88px;
 }
 
 .tree{
-	margin: 0px 11px 0px 77px;
+	margin: 0 11px 0 77px;
 }
 
 .spain{
-	margin: 0px 36px 0px 65px;
+	margin: 0 36px 0 65px;
 }
 
 .reviews{
@@ -128,7 +128,7 @@ header{
 
 .block4{
 	height: 588px;
-	padding: 157px 0px 0px 0px;
+	padding: 157px 0 0 0;
 	margin: 0;
 	display: flex;
 }
@@ -139,32 +139,32 @@ header{
 }
  
 .leftblock4 h1{
- 	margin: 68px 88px 0px 325px;
+ 	margin: 68px 88px 0 325px;
  	font-size: 33px;
  }
 
 .leftblock4-desc1{
-	margin: 30px 0px 0px 210px;
+	margin: 30px 0 0 210px;
 	font-size: 18px;
 }
 
 .leftblock4-desc2{
-	margin: 30px 0px 0px 315px;
+	margin: 30px 0 0 315px;
 	font-size: 15px;
 }
 
 .leftblock4-desc3{
 	width: 437px;
 	font-size: 18px;
-	margin: 25px 0px 0px -5px;
+	margin: 25px 0 0 -5px;
 	text-align: right;
 }
 
 .leftblock4-button{
-	background-color: white;
+	background-color: unset;
 	border: 0;
 	font-size: 17px;
-	margin: 66px 0px 0px 307px;
+	margin: 66px 0 0 307px;
 }
 
 .block4 img{
@@ -176,49 +176,49 @@ header{
 
 .block5{
 	height: 588px;
-	padding: 29px 0px 0px 0px;
+	padding: 29px 0 0 0;
 	margin: 0;
 	display: flex;
 }
 
 .rightblock5 h1{
- 	margin: 98px 0px 0px 50px;
+ 	margin: 98px 0 0 50px;
  	font-size: 30px;
  }
 
 .rightblock5-desc1{
-	margin: 30px 0px 0px 50px;
+	margin: 30px 0 0 50px;
 	font-size: 18px;
 }
 
 .rightblock5-desc2{
-	margin: 30px 0px 0px 50px;
+	margin: 30px 0 0 50px;
 	font-size: 15px;
 }
 
 .rightblock5-desc3{
 	width: 374px;
 	font-size: 18px;
-	margin: 25px 0px 0px 50px;
+	margin: 25px 0 0 50px;
 	text-align: left;
 }
 
 .rightblock5-desc4{
-	margin: 30px 0px 0px 50px;
+	margin: 30px 0 0 50px;
 	font-size: 16px;
 }
 
 .rightblock5-button{
-	background-color: none;
+	background-color: unset;
 	border: 0;
 	font-size: 17px;
-	margin: 66px 0px 0px 50px;
+	margin: 66px 0 0 50px;
 }
 
 
 .block6{
 	height: 588px;
-	padding: 29px 0px 0px 0px;
+	padding: 29px 0 0 0;
 	margin: 0;
 	display: flex;
 }
@@ -229,35 +229,35 @@ header{
 }
 
 .leftblock6-desc1{
-	margin: 60px 84px 0px 300px;
-	padding-top: 68;
+	margin: 60px 84px 0 300px;
+	padding-top: 68px;
 }
  
 .leftblock6 h1{
- 	margin: 68px 0px 0px 305px;
+ 	margin: 68px 0 0 305px;
  	font-size: 33px;
  }
 
 .leftblock6-desc2{
-	margin: 30px 0px 0px 238px;
+	margin: 30px 0 0 238px;
 	font-size: 18px;
 }
 
 .leftblock6-desc3{
-	margin: 30px 0px 0px 330px;
+	margin: 30px 0 0 330px;
 	font-size: 15px;
 }
 
 .leftblock6-desc4{
 	width: 355px;
 	font-size: 18px;
-	margin: 25px 0px 0px 40px;
+	margin: 25px 0 0 40px;
 	text-align: right;
 	padding: 0;
 }
 
 .leftblock6-desc5{
-	margin: 30px 0px 0px 280px;
+	margin: 30px 0 0 280px;
 	font-size: 16px;
 }
 
@@ -265,28 +265,28 @@ header{
 	background-color: white;
 	border: 0;
 	font-size: 17px;
-	margin: 66px 0px 0px 307px;
+	margin: 66px 0 0 307px;
 }
 
 .block7{
 	height: 588px;
-	padding: 29px 0px 25px 0px;
+	padding: 29px 0 25px 0;
 	margin: 0;
 	display: flex;
 }
 
 .rightblock7 h1{
- 	margin: 98px 0px 0px 50px;
+ 	margin: 98px 0 0 50px;
  	font-size: 30px;
  }
 
 .rightblock7-desc1{
-	margin: 30px 0px 0px 50px;
+	margin: 30px 0 0 50px;
 	font-size: 18px;
 }
 
 .rightblock7-desc2{
-	margin: 30px 0px 0px 50px;
+	margin: 30px 0 0px 50px;
 	font-size: 15px;
 }
 
@@ -306,22 +306,22 @@ header{
 	background-color: white;
 	border: 0;
 	font-size: 17px;
-	margin: 66px 0px 0px 50px;
+	margin: 66px 0 0 50px;
 }
 
 .block7-logos{
-	margin: 66px 0px 0px 50px;
+	margin: 66px 0 0 50px;
 }
 
 .block8{
 	height: 588px;
-	padding: 29px 0px 0px 0px;
+	padding: 29px 0 0 0;
 	margin: 0;
 	display: flex;
 }
 
 .leftblock8 h1{
- 	margin: 150px 64px 0px 195px;
+ 	margin: 150px 64px 0 195px;
  	font-size: 31px;
  }
 
