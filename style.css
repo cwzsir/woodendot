@@ -24,7 +24,7 @@ header{
 }
 
 .menu-list a{
-	font-family: 'Cardo', serif;
+	font-family: Cardo, serif;
 	font-weight: 400;
 	font-size: 17px;
 	line-height: 23px;
@@ -65,6 +65,7 @@ header{
 
 .block1 button{
 	position: absolute;
+	font-family: Cardo, serif;
 	top: 389px;
 	left: 659px;
 	text-align: center;
@@ -77,6 +78,7 @@ header{
 
 .block1 p{
 	position: absolute;
+	font-family: Cardo, serif;
 	margin: 0;
 	padding: 15px 26px;
 	background-color: black;
@@ -96,6 +98,7 @@ header{
 
 .block2 span{
 	padding: 10px 0;
+	font-family: Cardo, serif;
 }
 
 .minivan{
@@ -139,32 +142,43 @@ header{
 }
  
 .leftblock4 h1{
- 	margin: 68px 88px 0 325px;
+ 	margin: 68px 48px 0 362px;
  	font-size: 33px;
+	font-family: Roboto, serif;
  }
 
 .leftblock4-desc1{
-	margin: 30px 0 0 210px;
+	margin: 30px 0 0 260px;
 	font-size: 18px;
+	font-family: Cardo, serif;
+	font-style: italic;
 }
 
 .leftblock4-desc2{
-	margin: 30px 0 0 315px;
+	margin: 30px 0 0 355px;
 	font-size: 15px;
+	font-family: Cardo, serif;
 }
 
 .leftblock4-desc3{
 	width: 437px;
 	font-size: 18px;
-	margin: 25px 0 0 -5px;
+	margin: 25px 0 0 14px;
 	text-align: right;
+	font-family: Cardo, serif;
+	color: #525252;
 }
 
 .leftblock4-button{
 	background-color: unset;
 	border: 0;
 	font-size: 17px;
-	margin: 66px 0 0 307px;
+	margin: 66px 0 0 350px;
+	font-family: Roboto, serif;
+}
+
+.leftblock4-button:hover{
+	text-decoration: underline;
 }
 
 .block4 img{
@@ -184,16 +198,20 @@ header{
 .rightblock5 h1{
  	margin: 98px 0 0 50px;
  	font-size: 30px;
+	font-family: Roboto, serif;
  }
 
 .rightblock5-desc1{
 	margin: 30px 0 0 50px;
 	font-size: 18px;
+	font-family: Cardo, serif;
+	font-style: italic;
 }
 
 .rightblock5-desc2{
 	margin: 30px 0 0 50px;
 	font-size: 15px;
+	ont-family: Cardo, serif;
 }
 
 .rightblock5-desc3{
@@ -201,11 +219,15 @@ header{
 	font-size: 18px;
 	margin: 25px 0 0 50px;
 	text-align: left;
+	font-family: Cardo, serif;
+	color: #525252;
 }
 
 .rightblock5-desc4{
 	margin: 30px 0 0 50px;
 	font-size: 16px;
+	font-family: Cardo, serif;
+	color: #525252;
 }
 
 .rightblock5-button{
@@ -213,8 +235,12 @@ header{
 	border: 0;
 	font-size: 17px;
 	margin: 66px 0 0 50px;
+	font-family: Roboto, serif;
 }
 
+.rightblock5-button:hover{
+	text-decoration: underline;
+}
 
 .block6{
 	height: 588px;
@@ -229,23 +255,30 @@ header{
 }
 
 .leftblock6-desc1{
-	margin: 60px 84px 0 300px;
+	margin: 5px 84px 0 300px;
 	padding-top: 68px;
+	color: #BC1414;
+	font-family: Cardo, serif;
+	font-style: italic;
 }
  
 .leftblock6 h1{
  	margin: 68px 0 0 305px;
  	font-size: 33px;
+	font-family: Roboto, serif;
  }
 
 .leftblock6-desc2{
 	margin: 30px 0 0 238px;
 	font-size: 18px;
+	font-family: Cardo, serif;
+	font-style: italic;
 }
 
 .leftblock6-desc3{
 	margin: 30px 0 0 330px;
 	font-size: 15px;
+	font-family: Cardo, serif;
 }
 
 .leftblock6-desc4{
@@ -254,18 +287,26 @@ header{
 	margin: 25px 0 0 40px;
 	text-align: right;
 	padding: 0;
+	font-family: Cardo, serif;
+	color: #525252;
 }
 
 .leftblock6-desc5{
 	margin: 30px 0 0 280px;
 	font-size: 16px;
+	font-family: Cardo, serif;
 }
 
 .leftblock6-button{
-	background-color: white;
+	background-color: unset;
 	border: 0;
 	font-size: 17px;
 	margin: 66px 0 0 307px;
+	font-family: Roboto, serif;
+}
+
+.leftblock6-button:hover{
+	text-decoration: underline;
 }
 
 .block7{
@@ -276,37 +317,50 @@ header{
 }
 
 .rightblock7 h1{
- 	margin: 98px 0 0 50px;
+ 	margin: 77px 0 0 50px;
  	font-size: 30px;
+	font-family: Roboto, serif;
  }
 
 .rightblock7-desc1{
 	margin: 30px 0 0 50px;
 	font-size: 18px;
+	font-family: Cardo, serif;
+	font-style: italic;
 }
 
 .rightblock7-desc2{
-	margin: 30px 0 0px 50px;
+	margin: 30px 0 0 50px;
 	font-size: 15px;
+	font-family: Cardo, serif;
 }
 
 .rightblock7-desc3{
 	width: 360px;
 	font-size: 18px;
-	margin: 25px 0px 0px 50px;
+	margin: 25px 0 0 50px;
 	text-align: left;
+	font-family: Cardo, serif;
+	color: #525252;
 }
 
 .rightblock7-desc4{
-	margin: 30px 0px 0px 50px;
+	margin: 30px 0 0 50px;
 	font-size: 16px;
+	font-family: Cardo, serif;
+	color: #525252;
 }
 
 .rightblock7-button{
-	background-color: white;
+	background-color: unset;
 	border: 0;
 	font-size: 17px;
 	margin: 66px 0 0 50px;
+	font-family: Roboto, serif;
+}
+
+.rightblock7-button:hover{
+	text-decoration: underline;
 }
 
 .block7-logos{
@@ -321,73 +375,87 @@ header{
 }
 
 .leftblock8 h1{
- 	margin: 150px 64px 0 195px;
+ 	margin: 135px 48px 0 195px;
  	font-size: 31px;
+	font-family: Roboto, serif;
  }
 
 .leftblock8-desc1{
-	margin: 30px 0px 0px 190px;
+	margin: 30px 0 0 195px;
 	font-size: 18px;
+	font-family: Cardo, serif;
+	font-style: italic;
 }
 
 .leftblock8-desc2{
-	margin: 35px 0px 0px 365px;
+	margin: 35px 0 0 365px;
 	font-size: 15px;
+	font-family: Cardo, serif;
 }
 
 .leftblock8-desc3{
 	width: 370px;
 	font-size: 18px;
-	margin: 40px 0px 0px 60px;
+	margin: 40px 0 0 60px;
 	text-align: right;
 	padding: 0;
+	font-family: Cardo, serif;
+	color: #525252;
 }
 
 .leftblock8-desc4{
-	margin: 30px 0px 0px 255px;
+	margin: 30px 0 0 255px;
 	font-size: 16px;
+	font-family: Cardo, serif;
+	color: #525252;
 }
 
 .leftblock8-button{
-	background-color: white;
+	background-color: unset;
 	border: 0;
 	font-size: 17px;
-	margin: 66px 0px 0px 307px;
+	margin: 66px 0 0 307px;
+	font-family: Roboto, serif;
+}
+
+.leftblock8-button:hover{
+	text-decoration: underline;
 }
 
 .block9{
 	width: 100%;
 	height: 142px;
 	text-align: center;
+	font-family: Cardo, serif;
 }
 
 .block9 h1{
- 	margin: 111px 0px 0px 0px;
+ 	margin: 111px 0 0 0;
  	font-size: 30px;
 }
 
 .block9 p{
-	margin: 41px 0px 0px 0px;
+	margin: 41px 0 0 0;
 	font-size: 18px;
 }
 
 .block10{
 	width: 100%;
-	height: 632;
+	height: 632px;
 	margin: 0;
 	padding: 0;
 }
 
 .block10-pic1{
-	margin: 0px 10px 0px 205px;
+	margin: 0 10px 0 205px;
 }
 
 .block10-pic2{
-	margin: 0px 10px 0px 0px;
+	margin: 0 10px 0 0;
 }
 
 .block10-colagebutton{
-	margin: 20px 0px 53px 652px;
+	margin: 20px 0 53px 652px;
 }
 
 .block11{
@@ -395,18 +463,21 @@ header{
 }
 
 .block11-desc1{
-	margin: 83px 0px 37px 120px;
+	margin: 83px 0 37px 120px;
 	width: 1290px;
 	font-size: 20px;
 	text-align: center;
+	font-family: Cardo, serif;
+	font-style: italic;
 }
 
 .block11-desc2{
 	font-size: 15px;
+	font-family: Cardo, serif;
 }
 
 .block11 img{
-	margin: 51px 0px 53px 0px;
+	margin: 51px 0 53px 0;
 }
 
 .block12{
@@ -414,6 +485,7 @@ header{
 	flex-direction: row;
 	margin: 0;
 	padding: 0;
+	font-family: Cardo, serif;
 }
 
 .block12-design{
@@ -437,12 +509,12 @@ header{
 	width: 283px;
 	font-size: 15px;
 	text-align: center;
-	margin: 12px 0px 0px 39px;
+	margin: 12px 0 0 39px;
 }
 
 .block12-design a{
 	font-size: 15px;
-	margin: 25px 0px 49px 0px;
+	margin: 25px 0 49px 0;
 	text-decoration: none;
 	color: black;
 }
@@ -467,12 +539,12 @@ header{
 	width: 283px;
 	font-size: 15px;
 	text-align: center;
-	margin: 12px 0px 0px 39px;
+	margin: 12px 0 0 39px;
 }
 
 .block12-footprint a{
 	font-size: 15px;
-	margin: 25px 0px 49px 0px;
+	margin: 25px 0 49px 0;
 	text-decoration: none;
 	color: black;
 }
@@ -498,12 +570,12 @@ header{
 	width: 283px;
 	font-size: 15px;
 	text-align: center;
-	margin: 12px 0px 0px 39px;
+	margin: 12px 0 0 39px;
 }
 
 .block12-made a{
 	font-size: 15px;
-	margin: 25px 0px 49px 0px;
+	margin: 25px 0 49px 0;
 	text-decoration: none;
 	color: black;
 }
@@ -528,12 +600,12 @@ header{
 	width: 283px;
 	font-size: 15px;
 	text-align: center;
-	margin: 12px 0px 0px 39px;
+	margin: 12px 0 0 39px;
 }
 
 .block12-wood a{
 	font-size: 15px;
-	margin: 25px 0px 49px 0px;
+	margin: 25px 0 49px 0;
 	text-decoration: none;
 	color: black;
 }
@@ -541,6 +613,7 @@ header{
 .block13{
 	padding: 61px 10px 83px;
 	text-align: center;
+	font-family: Cardo, serif;
 }
 
 .block13 p{
@@ -554,6 +627,7 @@ header{
 
 footer{
 	background-color: #E9E9E9;
+	font-family: Cardo, serif;
 }
 
 .footer-floor1{
@@ -575,7 +649,7 @@ footer{
 	width: 270px;
 	height: 300px;
 	text-align: center;
-	margin: 35px 0px 0px 100px;
+	margin: 35px 0 0 100px;
 }
 
 .about-footer h1{
@@ -586,7 +660,7 @@ footer{
 	width: 270px;
 	height: 300px;
 	text-align: center;
-	margin: 35px 0px 0px 0px;
+	margin: 35px 0 0 0;
 }
 
 .help-footer h1{
@@ -597,7 +671,7 @@ footer{
 	width: 270px;
 	height: 300px;
 	text-align: center;
-	margin: 35px 0px 0px 0px;
+	margin: 35px 0 0 0;
 }
 
 .more-footer h1{
@@ -605,7 +679,7 @@ footer{
 }
 
 .footerblock2{
-	margin: 50px 160px 0px 160px;
+	margin: 50px 160px 0 160px;
 	width: 330px;
 	height: 300px;
 	text-align: center;
@@ -616,13 +690,13 @@ footer{
 }
 
 .footerblock2 button{
-	padding: 0px 50px;
+	padding: 0 50px;
 	background-color: white;
 	margin-bottom: 31px;
 }
 
 .footericon1{
-	margin: 0px 40px 19px 0px;
+	margin: 0 40px 19px 0;
 }
 
 .footericon2{
