@@ -76,6 +76,12 @@ header{
 	padding: 4px 50px;
 }
 
+.block1 button:hover{
+	background-color: white;
+	border-color: black;
+	color: black;
+}
+
 .block1 p{
 	position: absolute;
 	font-family: Cardo, serif;
@@ -211,7 +217,7 @@ header{
 .rightblock5-desc2{
 	margin: 30px 0 0 50px;
 	font-size: 15px;
-	ont-family: Cardo, serif;
+	font-family: Cardo, serif;
 }
 
 .rightblock5-desc3{
